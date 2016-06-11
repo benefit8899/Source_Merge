@@ -9,7 +9,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.Write("Xin Chao!! ");
+            Console.Write("");
             Console.Read();
         }
     }
